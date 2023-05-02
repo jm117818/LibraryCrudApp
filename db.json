@@ -1,0 +1,126 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "books": [
+    {
+      "title": "The Hobbitt",
+      "author": "J.R.R. Tolkienn",
+      "year_of_publication": 1932,
+      "type": "Fantasty",
+      "id": 5
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "year_of_publication": 1895,
+      "type": "Comedy",
+      "id": 6
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "year_of_publication": 1897,
+      "type": "Horror",
+      "id": 7
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_of_publication": 1925,
+      "type": "Romance",
+      "id": 8
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_of_publication": 1960,
+      "type": "Tragedy",
+      "id": 9
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year_of_publication": 1949,
+      "type": "Dystopia",
+      "id": 10
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "year_of_publication": 1600,
+      "type": "Comedy",
+      "id": 11
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_of_publication": 1951,
+      "type": "Tragedy",
+      "id": 12
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year_of_publication": 1890,
+      "type": "Horror",
+      "id": 13
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year_of_publication": 1979,
+      "type": "Comedy",
+      "id": 14
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "year_of_publication": 1920,
+      "type": "Epic",
+      "id": 15
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "year_of_publication": 1977,
+      "type": "Horror",
+      "id": 16
+    },
+    {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "year_of_publication": 1950,
+      "type": "Fantasy",
+      "id": 17
+    },
+    {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "year_of_publication": 1597,
+      "type": "Tragedy",
+      "id": 18
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "year_of_publication": 2008,
+      "type": "Fantasy",
+      "id": 19
+    }
+  ]
+}
